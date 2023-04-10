@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+    /* text-align: center; */
+}
+.bdrSec{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+.bdrH2{
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(64, 114, 98);
+}
+.bdrPara{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(46, 63, 58);
+}
+.dashedBdr{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: rgb(132, 244, 12);
+}
+.dottedBdr{
+    /* border-width: 5px;
+    border-style: dotted;
+    border-color: rgb(208, 20, 33); */
+    border:5px dotted red
+}
+.insetBdr{
+    border:5px inset goldenrod
+}
+.textRight{
+    text-align: right !important;
+    background-color: blueviolet;
+    color: white;
+}
